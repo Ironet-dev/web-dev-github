@@ -1,0 +1,32 @@
+body{
+    background-color: aqua;
+}
+
+.main-container{
+    background-color: rgb(19, 77, 77);
+    text-align: center;
+    margin: 100px;
+}
+#first{
+    color: goldenrod;
+    font-family: 'Hind Siliguri', sans-serif; 
+    margin-top: auto;
+    margin-bottom: 0%;
+}
+#second{
+    margin-top: 0%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: small;
+}
+img{
+    width: 200px;
+    height: 140px;
+}
+h1{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 2cm;
+}
+a{
+    color: rgb(235, 207, 52);
+}
